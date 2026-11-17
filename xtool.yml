@@ -1,0 +1,4 @@
+version: 1
+bundleID: info.patrickkelly.app
+infoPath: Info.plist
+iconPath: Resources/AppIcon.png
